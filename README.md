@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @affan-afk
 - 👀 I’m interested in videogames and movies
-- 🌱 I’m currently learning c language
+- 🌱 I’m currently learning the c++ language
 - 📫 How to reach me affanrasheed2751@gmail.com
 - ⚡ Fun fact: I've platinumed multiple games on the Playstation
 
