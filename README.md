@@ -1,12 +1,37 @@
-- 👋 Hi, I’m @affan-afk
-- 👀 I’m interested in videogames and movies
-- 🌱 I’m currently learning the c++ language
-- 📫 How to reach me affanrasheed2751@gmail.com
-- ⚡ Fun fact: I've platinumed multiple games on the Playstation
+# 👋 Hi, I'm Muhammad Affan Rasheed (@affan-afk)
 
+## 💻 About Me
+- 🎓 BS Computer Science student at FAST Karachi (Class of 2028)
+- 🌱 Currently learning and building with **C++, Python, SQL, and low-level programming concepts**
+- 🛠 Interested in **Software Engineering, Operating Systems, Databases, and problem solving**
+- 👀 Also into **video games, movies, and tech**
 
-Endure and Survive ⸙
-<!---
-affan-afk/affan-afk is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+## 🚀 Current Focus
+- Building university and personal programming projects
+- Improving DSA and software development skills
+- Exploring multithreading, databases, and systems programming
+
+## 🧰 Tech Stack
+### Languages
+`C` `C++` `Python` `SQL`
+
+### Tools & Concepts
+`VS Code` `GitHub` `OOP` `DSA` `DBMS` `Operating Systems` `Multithreading`
+
+## 📌 Featured Projects
+- 🐍 Snake Game in x86 Assembly (MASM + Irvine32)
+- 🍽 Restaurant Management Simulator using POSIX Threads
+- ✈️ Flight Management Simulator in C++
+- 🧩 Sudoku Solver & Checker in C
+- 🤖 AI Chatbot in Python
+
+## 📈 GitHub Stats
+![Affan's GitHub stats](https://github-readme-stats.vercel.app/api?username=affan-afk&show_icons=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=affan-afk&layout=compact)
+
+## 📫 Reach Me
+📧 affanrasheed2751@gmail.com
+
+## 🎮 Fun Fact
+⚡ I've platinumed multiple games on PlayStation
