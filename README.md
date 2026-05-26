@@ -25,12 +25,6 @@
 - 🧩 Sudoku Solver & Checker in C
 - 🤖 AI Chatbot in Python
 
-## 📈 GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=affan-afk&show_icons=true&theme=default)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=affan-afk&layout=compact&theme=default)
-
 ## 📫 Reach Me
 📧 affanrasheed2751@gmail.com
 
