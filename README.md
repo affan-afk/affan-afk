@@ -26,9 +26,10 @@
 - 🤖 AI Chatbot in Python
 
 ## 📈 GitHub Stats
-![Affan's GitHub stats](https://github-readme-stats.vercel.app/api?username=affan-afk&show_icons=true)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=affan-afk&layout=compact)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=affan-afk&show_icons=true&theme=default)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=affan-afk&layout=compact&theme=default)
 
 ## 📫 Reach Me
 📧 affanrasheed2751@gmail.com
